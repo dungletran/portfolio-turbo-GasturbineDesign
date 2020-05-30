@@ -1,3 +1,5 @@
+# Contents
+
 1. The excel file 'cal' is used for the compressor stage design 
 2. The excel file 'Cal_losses' is used for calculating the losses and efficiency (both polytropic and isentropic) of the compressor. It also calculates the blade parameters for the blade meanline. These can be accessed in the 'Comp_combine' sheet. 
 3. The excel file 'Cal_tip' is used for calculating the blade parameters at the tip. These can be accessed in the 'Comp_combine' sheet. 
